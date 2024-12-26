@@ -24,3 +24,4 @@
 		
         -c "cat /etc/os-release;php -v;php artisan serve --host=0.0.0.0 --port=80;"              # 启动shell
         
+![image](https://github.com/user-attachments/assets/85b30ac5-1af5-4b95-9828-4825d5b99f0f)

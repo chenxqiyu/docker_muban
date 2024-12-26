@@ -12,7 +12,7 @@
 			
     volumes:
 		
-      - ./local-app:/app_cp            # 将本地的 ./local-app 目录挂载到容器中的 /app 目录
+      - ./local-app:/app_cp            # 将本地的 ./local-app 目录挂载到容器中的 /app_cp 目录
 			
     stdin_open: true                # 启用交互式输入
 		
